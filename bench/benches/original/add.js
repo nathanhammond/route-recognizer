@@ -1,4 +1,4 @@
-var RouteRecognizer = require('../../dist/route-recognizer');
+var RouteRecognizer = require('../../../dist/route-recognizer');
 
 var router = new RouteRecognizer();
 function add() {

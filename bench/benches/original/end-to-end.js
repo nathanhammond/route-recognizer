@@ -1,4 +1,4 @@
-var RouteRecognizer = require('../../dist/route-recognizer');
+var RouteRecognizer = require('../../../dist/route-recognizer');
 
 module.exports = {
   name: 'End-to-end',
